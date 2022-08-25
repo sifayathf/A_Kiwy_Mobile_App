@@ -1,0 +1,18 @@
+table{
+			font-family: Helvetica, arial, freesans, clean, sans-serif;
+			font-size: 20px;
+			color: rgb(160,50,90);
+			background-color: yellow;
+}
+table.tr{
+			font-family: Helvetica, arial, freesans, clean, sans-serif;
+			font-size: 20px;
+color: rgb(160,50,90);
+background-color: red;
+}
+table.tr.td{
+			font-family: Helvetica, arial, freesans, clean, sans-serif;
+			font-size: 20px;
+			color: rgb(160,50,90);
+			background-color: yellow;
+}
